@@ -60,3 +60,5 @@ console.log(pessoaFisica.toString())
 //Teste da Classe Pessoa Juridica
 var pessoaJuridica = new PessoaJuridica("Marinho S/A", "Rua Riachuelo", "00000000000000", "Tecnologia da Informação")
 console.log(pessoaJuridica.toString())
+
+//Atividade Concluida e enviada via Git
